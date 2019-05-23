@@ -142,7 +142,7 @@ $ قم بمراجعة درس القوائم الفرعية
     1-Python
 ```
 
-**
+*
 ```
 • Front-end
     • HTML
@@ -150,16 +150,6 @@ $ قم بمراجعة درس القوائم الفرعية
        1-CSS
 • Back-end
     1-Python
-```
-
-*
-```
-• Front-end
-    • HTML
-    1-CSS
-       1-CSS
-• Back-end
-    0-Python
 ```
 
 **
